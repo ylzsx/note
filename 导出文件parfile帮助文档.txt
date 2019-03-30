@@ -1,0 +1,63 @@
+exp parfile=d:\test.par file=d:\back.dmp filesize=2000M log=d:\**.log
+
+
+filesize的作用是为了防止有的os不支持2G以上容量的文件，而且大文件的I/O性能不好。
+
+
+exp parfile=d:\test.par 
+>>>test.par的内容
+a)scott用户连接导出自己的所有对象 
+userid=scott/tiger------连接的用户scott
+file=d:\back.dmp------导出的文件的名字
+
+
+b)用system用户连接来导出scott下的所有对象 
+userid=system/manager
+file=d:\back.dmp
+owner=(scott) -------导出scott用户的所有对象
+
+
+c)用system用户连接导出scott和test下的所有对象
+
+userid=system/manager
+file=d:\back.dmp
+owner=(scott,test)
+
+
+d)用system用户连接导出scott下的emp,dept表、test用户下的student表
+
+userid=system/manager
+file=d:\back.dmp
+tables=(scott.emp,scott.dept,test.student)
+
+
+e)导出整个数据库(备份整个数据库)--------必须用超级用户 system ,sys
+userid=system/manager
+file=d:\back.dmp
+full=y
+
+以下是比较全的一个导出整个数据库的参数文件
+userid=system/manager
+file=d:\back.dmp
+buffer=1024000 ---------缓冲
+rows=y ----------是否导出记录
+compress=y ---------extent是否压缩
+grants=y ----------grant语句是否导出
+indexes=y ----------导出索引
+full=y ----------全库导出
+feedback=3 ----------显示导出进度每3行
+
+
+f)导出表scott.dept中部门编号是40的记录
+userid=system/manager
+file=d:\back.dmp
+tables=(scott.emp) 
+query="where deptno=10"
+
+
+g)导出表scott.emp中的记录
+userid=system/manager
+file=d:\back.dmp
+tables=(scott.emp) 
+feedback=3 ---------每3行记录显示一个点进度
+
