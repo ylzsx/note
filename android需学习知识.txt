@@ -1,0 +1,273 @@
+拦截器（addInteceptor和addNetworkInterceptor区别）：
+https://www.cnblogs.com/hankzhouAndroid/p/8710284.html
+https://blog.csdn.net/qq_38219041/article/details/72935142
+
+日志记录：
+https://www.jianshu.com/p/39834be3cb6c
+https://www.jianshu.com/p/4f54fcba3ad3
+
+AtomicLong：java原子类
+https://www.cnblogs.com/kexianting/p/8554001.html
+https://zhidao.baidu.com/question/1542901955095543467.html
+
+AtomicLong和LongAdder区别
+https://www.jianshu.com/p/381f9b39c941
+http://ifeve.com/atomiclong-and-longadder/
+
+
+Ioc接口实例：
+https://blog.csdn.net/c6E5UlI1N/article/details/80001641
+https://www.jianshu.com/p/9078f21011c0
+
+Scheme分布器：
+https://blog.csdn.net/u013651026/article/details/83345761
+https://www.jianshu.com/p/da801097c79d
+
+Android Architecture Components:
+https://www.jianshu.com/nb/7889538
+https://blog.csdn.net/Cute_Code/article/details/81279411
+
+Fragment argment
+https://blog.csdn.net/tu_bingbing/article/details/24143249
+https://blog.csdn.net/lmj623565791/article/details/42628537/
+https://www.jianshu.com/p/789231d0e4ca
+
+Dragger依赖注入
+https://www.jianshu.com/p/9fee10d4e59f
+
+Service Locator设计模式
+https://blog.csdn.net/bird3014/article/details/77897388
+https://blog.csdn.net/mr_xuzhe/article/details/78682967
+https://www.cnblogs.com/gaochundong/archive/2013/04/12/service_locator_pattern.html
+
+DataBinding：
+https://www.jianshu.com/p/bd9016418af2
+https://www.imooc.com/article/44692
+
+Fragment
+https://blog.csdn.net/lmj623565791/article/details/37970961
+https://blog.csdn.net/lmj623565791/article/details/37992017
+
+onInterceptTouchEvent()
+https://blog.csdn.net/b2569449528/article/details/78576693
+
+FragmentPagerAdapter
+https://blog.csdn.net/u013762572/article/details/54809188
+https://www.cnblogs.com/nbls/p/7252307.html
+
+ViewModel
+https://www.jianshu.com/p/75e9118e6c8a?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation
+https://www.jianshu.com/p/fc814a20c452
+
+Paging
+https://www.jianshu.com/p/95d44c5338fd
+https://cloud.tencent.com/developer/article/1369880 		kotlin
+https://blog.csdn.net/mq2553299/article/details/80788692		kotlin
+
+自定义LayoutManger
+https://blog.csdn.net/zxt0601/article/details/52948009
+https://blog.csdn.net/zxt0601/article/details/52956504
+
+Lifecycle
+https://www.jianshu.com/p/b1208012b268
+https://juejin.im/entry/5bfccca8f265da612415230f
+https://blog.csdn.net/WAN_EXE/article/details/83377191
+
+高级技术：
+https://www.jianshu.com/p/c44d7a106302
+
+Lifecycle、LifecycleOwner
+https://www.jianshu.com/p/b1208012b268
+https://blog.csdn.net/WAN_EXE/article/details/83377191
+
+ViewModel
+https://www.jianshu.com/p/7e1497871db2
+
+TimePicker
+https://blog.csdn.net/qq_37217804/article/details/80538209
+https://www.cnblogs.com/plokmju/p/android_DatePiceker.html
+https://www.jianshu.com/p/e8ca04b3509e
+选择选项器
+https://blog.csdn.net/qq_22393017/article/details/58099486
+
+lifecycle生命周期
+https://cloud.tencent.com/developer/article/1446501
+https://www.cnblogs.com/cold-ice/p/9115810.html
+
+https://www.jianshu.com/p/9a5f55cddb60
+https://www.jianshu.com/p/428964805cf1
+
+View.post()
+https://www.cnblogs.com/dasusu/p/8047172.html
+
+SnapHelper
+https://www.jianshu.com/p/e54db232df62
+
+画板：
+https://www.jianshu.com/p/aaf117c49dd7
+https://github.com/dsbGenius/WhiteBoard
+
+https://github.com/1993hzw/Doodle
+https://blog.csdn.net/u012964944/article/details/82703684
+
+放大缩小：
+https://github.com/han1254/MVVM_TEST
+图层：
+ttps://www.runoob.com/w3cnote/android-tutorial-xfermode-porterduff4.html
+
+好友页面：
+https://github.com/gjiazhe/WaveSideBar
+
+三种DataSource：
+https://www.jianshu.com/p/fd00c0fbd774
+
+LifeCycler：
+https://www.cnblogs.com/cold-ice/p/9115810.html
+https://cloud.tencent.com/developer/article/1446501
+
+recyclerView拖动排序：
+https://www.jianshu.com/p/557923bf3864
+
+画廊：
+https://www.cnblogs.com/fuyaozhishang/p/6794627.html
+https://www.jianshu.com/p/8ccc8041cc0f
+https://blog.csdn.net/m0_37796683/article/details/82497003
+
+
+Fragment传参：
+https://blog.csdn.net/lingyuntang/article/details/52063141
+https://blog.csdn.net/ziyejinwei1994/article/details/72834325
+
+自定义View
+https://hndeveloper.github.io/2017/github-android-ui.html
+
+分享：
+https://github.com/xyzlf/ShareSDK
+
+空间：
+https://my.oschina.net/tommylemon/blog/885787
+https://github.com/1993hzw/QZoneComment
+https://github.com/APIJSON/APIJSON
+待核实：
+https://github.com/songmao123/QQZoneCommentReply-Master
+https://github.com/chencq17/qqzone
+
+easyPhoto：
+https://github.com/joker-fu/EasyPhotos
+
+Canvas：
+https://www.jianshu.com/p/d9b9b909d5eb
+https://www.jianshu.com/p/aaf117c49dd7   whiteBroader
+https://www.2cto.com/kf/201605/512916.html 自定义View
+https://blog.csdn.net/u012964944/article/details/82703684  doodle
+https://www.jianshu.com/p/6b6bc64a6823  贴纸
+https://www.runoob.com/w3cnote/android-tutorial-xfermode-porterduff4.html  菜鸟驿站
+https://github.com/han1254/MVVM_TEST  github
+https://blog.csdn.net/Decting/article/details/79060132 仿微信图片编辑库
+https://blog.csdn.net/danfengw/article/details/48947877 图片特效
+
+handler
+https://juejin.im/entry/579ca945c4c971005acf5f4a
+https://juejin.im/post/5a692377518825734e3e71ab
+https://juejin.im/post/5d712cedf265da03ea5a9ecf
+
+百度传课
+https://mck.baidu.com/8655333-237385.html
+
+scheme协议
+https://blog.csdn.net/byhook/article/details/51888793
+https://blog.csdn.net/baidu_31956557/article/details/79900311
+https://www.jianshu.com/p/4e006f9a7821
+
+ItemDecoration
+https://www.jianshu.com/p/75112f43a128 
+https://www.jianshu.com/p/e742df6f59e2
+https://www.cnblogs.com/apkbus/p/5506301.html
+
+recyclerView的
+https://www.jianshu.com/p/aff499a5953c  recyclerView的
+
+app拉活：
+https://blog.csdn.net/amepre88/article/details/77186232/
+https://blog.csdn.net/amepre88/article/details/77186232/
+
+图解HashMap：
+https://juejin.im/post/5a23f82ff265da432003109b
+https://juejin.im/post/5a255bbd6fb9a0450c493f4d
+
+java
+av29575822 -->07_容器和数据结构
+av29576016 -->08_IO流技术
+av29577334 -->10_网络编程
+av29576652 -->11_手写服务器httpserver项目
+av29578196 -->12_注解_反射_字节码_类加载机制
+av29579073 -->13_GOF23设计模式全解
+av29578557 -->14_正则表达式和文本操作
+av29579728 -->16_手写SORM框架
+线程池：
+https://www.bilibili.com/video/av46269610/?p=2&t=483
+https://www.bilibili.com/video/av22379483?t=57
+
+
+ioc
+优酷
+
+视频学习（17-20）：
+https://search.bilibili.com/all?keyword=Android%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%EF%BC%882019%EF%BC%89&from_source=banner_search
+
+
+前端学习
+https://www.bilibili.com/video/av67512911/?p=3
+https://www.cnblogs.com/chengjian-physique/p/8076356.html
+https://blog.csdn.net/qq_35624642/article/details/68482926
+富文本编辑器http://www.wangeditor.com/
+
+
+967
+https://gedoor.github.io/MyBookshelf/bookSource.json
+
+
+
+
+知识学习线路：
+广播 https://www.bilibili.com/video/av60504132?from=search&seid=1889077955317262595
+服务 https://www.bilibili.com/video/av60726532?from=search&seid=1889077955317262595
+工程师 https://www.bilibili.com/watchlater/#/av54269793/p1
+架构师 https://www.bilibili.com/watchlater/#/av24802232/p1
+
+基础课程 https://www.bilibili.com/video/av31697799?from=search&seid=15591759216730326115
+进阶 https://www.bilibili.com/video/av48190757?from=search&seid=8268116549519813962
+
+商场项目 https://www.bilibili.com/video/av46172712?from=search&seid=10002919379018402642
+硅谷新闻 https://www.bilibili.com/video/av22243270?from=search&seid=17689374124245908154
+https://www.bilibili.com/video/av22323962?from=search&seid=17689374124245908154
+Android项目_硅谷p2p金融 https://www.bilibili.com/video/av22137478?from=search&seid=13221040739248390416
+https://www.bilibili.com/video/av22715513?from=search&seid=13221040739248390416
+
+面试 https://www.bilibili.com/video/av31521130?from=search&seid=16260340623520949144
+
+系统 https://www.bilibili.com/watchlater/#/av22038012/p1
+
+
+本地抠图库
+https://github.com/han1254/Android-CutOut
+easyPhotos：
+https://github.com/joker-fu/EasyPhotos
+
+
+
+
+
+UI库
+https://github.com/Tencent/QMUI_Android
+openCV
+https://github.com/devzwy/open_nsfw_android
+
+
+
+css modle
+eslint
+axios
+react-redux 双向数据流
+react-router 管理前端路由
+redux-saga  和redux-thunk  是redux的中间件

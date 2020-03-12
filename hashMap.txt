@@ -1,0 +1,54 @@
+hashmap
+数据结构 数组加链表
+链表节点
+
+数组初始化位置 懒加载机制
+默认初始化容器大小为16
+jdk1.8之前是通过while遍历实现查找链表
+table动态扩容（0.75负载因子）
+头插法
+hash算法 平衡、容易查找、有序
+
+红黑树 链表长度大于8时，转换为红黑树 
+二叉查找树 任何节点的左右子树不会超过二者较低高度的一倍。平衡二叉树
+
+
+http://www.semiw.com/jishu/102529232019.html
+
+24638000
+
+addi $3,$3,FFFF8000
+
+0010 0000 0110 0011 4000
+20634000
+
+0010 0000 00100 0010 4000
+20424000
+
+0111 111 0000 0001
+
+
+@Mapper
+public interface UserMapper {
+
+    @Select("select * from user where user_id=1")
+    public User getUserById();
+
+    //delete insert 返回int
+
+    @Options(useGeneratedKeys = true, keyProperty = "id")
+    @Insert("insert into user(user_name, password) values(#{userName})")
+    public int insert(User user);
+}
+
+
+// 内存分配
+public ArrayList<Integer> malloc();
+// LRU 模拟内存置换
+public boolean LRU(ArrayList<Integer> memoryBlocks, String content);
+// 释放线程占用的内存块
+public int free(ArrayList<Integer> memoryBlocks);
+// 展示当前的内存情况
+public ArrayList<MemoryBlock> showMemory();
+// 得到内存块
+public MemoryBlock[] getMemory();
